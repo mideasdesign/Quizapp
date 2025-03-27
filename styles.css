@@ -1,0 +1,12 @@
+body{
+   background:#fcfcfa;
+   height:100vh;
+    
+}
+.container-xl{
+   height:100vh;
+}
+.card{
+   height:50vh;
+   width:50vh;
+}
