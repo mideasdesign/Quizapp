@@ -6,7 +6,15 @@ body{
 .container-xl{
    height:100vh;
 }
-.card{
-   height:50vh;
+.card-container{
+   min-height:40vh;
    width:50vh;
+}
+.card{
+   margin-bottom:2%;
+}
+.quiz-footer{
+   display:flex;
+   justify-content:space-between;
+   justify-items: center;
 }
